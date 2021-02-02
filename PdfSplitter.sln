@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSplitter", "PdfSplitter\PdfSplitter.csproj", "{DF3117A9-0956-4497-89DA-D6C2EAA41F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3117A9-0956-4497-89DA-D6C2EAA41F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3117A9-0956-4497-89DA-D6C2EAA41F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3117A9-0956-4497-89DA-D6C2EAA41F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3117A9-0956-4497-89DA-D6C2EAA41F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B3CD08-CF41-46F9-B390-B953519E41CD}
+	EndGlobalSection
+EndGlobal

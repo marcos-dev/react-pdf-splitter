@@ -1,0 +1,10 @@
+Your Mac username is: user181257
+Your Mac password is: pxt38747
+
+12 - User ID=sgp_cetfc_user;Password=3asq>FkwV=)@;
+
+10 - hmg_user     LuI$fb7@TLG9
+
+//Ajuste para melhorar performance da modal
+        this.modal.config.animated = false;
+        this.modal.config.backdrop = 'static';
