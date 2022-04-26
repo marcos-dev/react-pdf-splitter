@@ -6,11 +6,11 @@ export class Footer extends Component {
 
 
     render() {
-        let url = "rmcbrothers.com.br"
+        let url = "https://marcos-dev.github.io/"
         return (
             <footer className="border-top footer text-muted">
                 <div className="container">
-                    &copy; 2021 - <a href={url}>RMC Brothers</a>
+                    &copy; 2021 - <a href={url}>MPMP</a>
                 </div>
             </footer>
         );
