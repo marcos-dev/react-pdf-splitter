@@ -14,7 +14,7 @@
 
 ## :information_source: Sobre
 
-Projeto de um separador de PDF em React e .Net. Converte cada página do PDF um arquivo. <br>
+Projeto de um separador de PDF em React e .Net. Converte cada página do PDF em um arquivo. <br>
 PDF Splitter project built with React and .Net. 
 
 ## :rocket: Tecnologias
